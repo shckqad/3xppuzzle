@@ -1,0 +1,92 @@
+td{
+  padding:50px;
+  border:20px;
+  border: 20px solid #000000;
+  image: url("doen.jpg");
+}
+
+table{
+  border:3;
+  border-color:red;
+  align:center;
+}
+
+.
+
+.td1 {
+  background-image: url("images/purple.jpg");
+  height: 300px;
+  width: 300px;
+  position: relative;
+}
+
+.td2 {
+  background-image: url("images/purple.jpg");
+  height: 350px;
+  width: 350px;
+}
+
+.td3 {
+  background-image: url("images/purple.jpg");
+  height: 300px;
+  width: 300px;
+}
+
+.td4 {
+  background-image: url("images/purple.jpg");
+  height: 300px;
+  width: 300px;
+}
+
+.td5 {
+  background-image: url("images/purple.jpg");
+  height: 300px;
+  width: 300px;
+}
+
+.td6 {
+  background-image: url("images/purple.jpg");
+  height: 300px;
+  width: 300px;
+}
+
+.td7 {
+  background-image: url("images/purple.jpg");
+  height: 300px;
+  width: 300px;
+}
+
+.td8 {
+  background-image: url("images/purple.jpg");
+  height: 300px;
+  width: 300px;
+}
+
+.td9 {
+  background-image: url("images/purple.jpg");
+  height: 300px;
+  width: 300px;
+}
+
+
+body {
+  text-align: center;
+  background-image:
+url('tt.gif');
+  background-size: 50%;
+}
+
+h1 {
+  font-family: 'Sniglet', cursive;
+  color: red;
+  margin: 10px;
+}
+#game-wrapper {
+  width: 760px;
+  margin: auto;
+  margin-top: 40px;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  border: 2px solid orange;
+}
